@@ -5,6 +5,7 @@
 \*\*BIS04 Programación II · Universidad Latina de Costa Rica\*\* Grupo 6
 
 
+
 \## Integrantes
 
 \- José Ignacio Chavarría Delgado – usuario de GitHub: chavarriaaa
