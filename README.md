@@ -5,7 +5,6 @@ Tarea 1 – Modelado del dominio CoopeTica R.L.
 \*\*BIS04 Programación II · Universidad Latina de Costa Rica\*\*
 
 
-
 Integrantes
 
 \- José Ignacio Chavarría Delgado – usuario de GitHub: chavarriaaa
