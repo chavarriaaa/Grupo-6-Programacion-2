@@ -2,7 +2,7 @@ Tarea 1 – Modelado del dominio CoopeTica R.L.
 
 
 
-\*\*BIS04 Programación II · Universidad Latina de Costa Rica\*\*
+\*\*BIS04 Programación II · Universidad Latina de Costa Rica\*\* . Tarea 1
 
 
 Integrantes
