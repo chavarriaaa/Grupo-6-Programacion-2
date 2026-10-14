@@ -2,7 +2,7 @@
 
 
 
-\*\*BIS04 Programación II · Universidad Latina de Costa Rica\*\* . Tarea 1
+\*\*BIS04 Programación II · Universidad Latina de Costa Rica\*\* Grupo 6
 
 
 \## Integrantes
